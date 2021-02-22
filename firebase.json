@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "cleanUrls": true,
+    "public": "build",
+    "ignore": [
+      "CNAME",
+      "README.md",
+      "node_modules",
+      ".*"
+    ]
+  }
+}
